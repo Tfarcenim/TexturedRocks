@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:sandstone_rocks_xs" },
+							   { "model": "adventurecraft:sandstone_rocks_xs", "y": 90 },
+							   { "model": "adventurecraft:sandstone_rocks_xs", "y": 180 },
+							   { "model": "adventurecraft:sandstone_rocks_xs", "y": 270 }
+				             ]
+    }
+}

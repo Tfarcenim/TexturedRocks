@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:diorite" },
+							   { "model": "adventurecraft:diorite", "y": 90 },
+							   { "model": "adventurecraft:diorite", "y": 180 },
+							   { "model": "adventurecraft:diorite", "y": 270 }
+				             ]
+    }
+}

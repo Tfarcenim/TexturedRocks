@@ -1,0 +1,15 @@
+[
+{
+  "modid": "adventurecraft",
+  "name": "Adventure Craft",
+  "description": "Better stone textures",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

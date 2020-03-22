@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:brown_mushrooms_1" },
+							   { "model": "adventurecraft:brown_mushrooms_1", "y": 90 },
+							   { "model": "adventurecraft:brown_mushrooms_1", "y": 180 },
+							   { "model": "adventurecraft:brown_mushrooms_1", "y": 270 }
+				             ]
+    }
+}

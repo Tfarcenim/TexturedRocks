@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:andesite_cliff" },
+							   { "model": "adventurecraft:andesite_cliff", "y": 90 },
+							   { "model": "adventurecraft:andesite_cliff", "y": 180 },
+							   { "model": "adventurecraft:andesite_cliff", "y": 270 }
+				             ]
+    }
+}

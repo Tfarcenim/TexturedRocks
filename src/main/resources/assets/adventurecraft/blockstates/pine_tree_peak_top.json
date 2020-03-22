@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:pine_tree_peak_top" },
+							   { "model": "adventurecraft:pine_tree_peak_top", "y": 90 },
+							   { "model": "adventurecraft:pine_tree_peak_top", "y": 180 },
+							   { "model": "adventurecraft:pine_tree_peak_top", "y": 270 }
+				             ]
+    }
+}

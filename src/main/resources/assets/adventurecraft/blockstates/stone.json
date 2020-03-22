@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:stone" },
+							   { "model": "adventurecraft:stone", "y": 90 },
+							   { "model": "adventurecraft:stone", "y": 180 },
+							   { "model": "adventurecraft:stone", "y": 270 }
+				             ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "adventurecraft:block/stone2",
+  "textures": {
+    "0":"blocks/stone_andesite",
+    "particle" : "blocks/stone_andesite"
+  }
+}

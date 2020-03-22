@@ -1,0 +1,10 @@
+{
+    "variants": {
+                   "normal": [
+				               { "model": "adventurecraft:sandstone_pillar_l" },
+							   { "model": "adventurecraft:sandstone_pillar_l", "y": 90 },
+							   { "model": "adventurecraft:sandstone_pillar_l", "y": 180 },
+							   { "model": "adventurecraft:sandstone_pillar_l", "y": 270 }
+				             ]
+    }
+}
